@@ -1,0 +1,16 @@
+{
+  "name": "fileserver-storage",
+  "version": "1.0.0",
+  "description": "This application is for storage for the fileserver application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Bruce Audo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
